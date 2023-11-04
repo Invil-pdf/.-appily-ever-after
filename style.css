@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color: PaleGoldenRod; 
+}
+.logo {padding: 5px; margin: 5px;
+}
+header a {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid steelblue;
+    text-decoration: none;
+}
+ h1 { text-align: center; font-size: 50px; color: DarkSlateGray;
+ background-color: Wheat; border: solid 2px DarkSlateGray;
+ border-radius: 30px; padding: 15px;
+ }
+
+footer {
+    background-color: BurlyWood;
+    color: white;
+}
+header p {background-color: white; color: black;
+}
+main p {background-color: PaleGoldenRod; font-family: Comic Sans MS, Comic Sans, cursive; 
+}
+footer p {background-color: white; color: black;
+}
+nav {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightgray;
+}
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(90, 90, 90);
+    font-family: Courier New, monospace
+}
+p img {
+    font-family: FreeMono, monospace;
+}
+h2 a {
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid steelblue;
+    text-decoration: none;
+}
